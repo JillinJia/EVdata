@@ -1,0 +1,5 @@
+﻿ID,source,target,value,label,symbol,symbolSize,lineStyle_curve,lineStyle_color,relation,data_source
+0,太阳能,光伏应用产品,,{'formatter': 'include'},,,,,include,公司年报图产品
+1,光伏应用产品,太阳能光伏组件,,{'formatter': 'include'},,,,,include,公司年报图产品
+2,光伏应用产品,太阳能电池片,,{'formatter': 'include'},,,,,include,公司年报图产品
+3,光伏应用产品,光伏逆变器,,{'formatter': 'include'},,,,,include,公司年报图产品
